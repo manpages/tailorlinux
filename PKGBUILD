@@ -27,7 +27,7 @@ source=("http://www.kernel.org/pub/linux/kernel/v3.x/linux-3.1.tar.xz"
         'usb-add-reset-resume-quirk-for-several-webcams.patch')
 md5sums=('edbdc798f23ae0f8045c82f6fa22c536'
          'd5a9093f12187098eee659eeeb071421'
-         'cbaaa923f00c1935055273ccc1630144'
+         '93b9a110090ca3aa706769e41b53be2b'
          '93687a4b7e1e6bcd4e7417d6e5079bc4'
          '415cd0bc390184e9194828b5e7918451'
 #        'eb14dcfd80c00852ef81ded6e826826a'
